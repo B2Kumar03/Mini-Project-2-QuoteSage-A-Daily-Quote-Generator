@@ -11,14 +11,15 @@ A beautifully designed **React-based Quote Generator App** that displays inspira
 -  **Like Quotes**: Heart icon lets you like/unlike quotes and saves them using `localStorage`.
 -  **Responsive UI**: Mobile-first design with smooth animations.
 -  **Persisted State**: Liked quotes are stored and preserved even after a page reload.
+-  **Download Quotes**: Instantly download your favorite quotes as beautiful images.
 
 ---
 
 ## 📸 Screenshots
 
-| Quote app in light mode | Quote app in dark mode|
-|------------------------------|---------------------|
-| ![Typing Animation](https://github.com/B2Kumar03/project_Image/blob/main/Screenshot%202025-05-29%20172302.png?raw=true) | ![Like Feature](https://github.com/B2Kumar03/project_Image/blob/main/Screenshot%202025-05-29%20172239.png?raw=true) |
+| Quote app in light mode | Quote app in dark mode |
+|--------------------------|------------------------|
+| ![Light Mode](https://github.com/B2Kumar03/project_Image/blob/main/Screenshot%202025-05-29%20184852.png?raw=true) | ![Dark Mode](https://github.com/B2Kumar03/project_Image/blob/main/Screenshot%202025-05-29%20184836.png?raw=true) |
 
 ---
 
