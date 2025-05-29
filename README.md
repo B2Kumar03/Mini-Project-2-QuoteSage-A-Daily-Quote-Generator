@@ -1,22 +1,22 @@
-# ✨ QuoteVerse — Animated Quote Generator App
+#  Quote app — Animated Quote Generator App
 
 A beautifully designed **React-based Quote Generator App** that displays inspirational quotes with **classical typing animation**, **like feature**, and **themed backgrounds**. The UI is minimal, centered, and highly engaging — perfect for motivation and aesthetic experience.
 
 ---
 
-## 🔥 Features
+##  Features
 
-- ⌨️ **Typing Animation**: Classical typing effect that simulates real-time writing.
-- 🎨 **Custom Theme Color**: Background color of the quote card changes dynamically.
-- ❤️ **Like Quotes**: Heart icon lets you like/unlike quotes and saves them using `localStorage`.
-- 📱 **Responsive UI**: Mobile-first design with smooth animations.
-- ☁️ **Persisted State**: Liked quotes are stored and preserved even after a page reload.
+-  **Typing Animation**: Classical typing effect that simulates real-time writing.
+-  **Custom Theme Color**: Background color of the quote card changes dynamically.
+-  **Like Quotes**: Heart icon lets you like/unlike quotes and saves them using `localStorage`.
+-  **Responsive UI**: Mobile-first design with smooth animations.
+-  **Persisted State**: Liked quotes are stored and preserved even after a page reload.
 
 ---
 
 ## 📸 Screenshots
 
-| Typing Animation (Live Quote) | Like Button Feature |
+| Quote app in light mode | Quote app in dark mode|
 |------------------------------|---------------------|
 | ![Typing Animation](https://github.com/B2Kumar03/project_Image/blob/main/Screenshot%202025-05-29%20172302.png?raw=true) | ![Like Feature](https://github.com/B2Kumar03/project_Image/blob/main/Screenshot%202025-05-29%20172239.png?raw=true) |
 
