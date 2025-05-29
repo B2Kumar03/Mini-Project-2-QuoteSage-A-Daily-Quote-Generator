@@ -16,6 +16,7 @@
     "date-fns": "^4.1.0",
     "dayjs": "^1.11.13",
     "framer-motion": "^12.10.5",
+    "html2canvas": "^1.4.1",
     "lottie-react": "^2.4.1",
     "lucide-react": "^0.508.0",
     "papaparse": "^5.5.2",

@@ -19,6 +19,7 @@ const App = () => {
       });
       const { quote, author } = res.data[0];
       setQuoteData({ quote, author });
+      console.log(quote, author);
     } catch (error) {
       console.error("Failed to fetch quote", error);
     }
@@ -79,6 +80,7 @@ const App = () => {
             Liked Quotes
           </button>
         </div>
+        
       </div>
 
       {/* Main Content Centered */}
